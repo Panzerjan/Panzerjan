@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Panzerjan
-- 👀 I’m interested in Python, TSQL, IaC etc
+- 👀 I’m interested in Python, TSQL, IaC, architecture etc
 - 🌱 I’m currently learning IaC and DevOps
 
 <!---
