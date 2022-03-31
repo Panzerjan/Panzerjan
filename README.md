@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Panzerjan
 - 👀 I’m interested in Python, TSQL, IaC, architecture etc
-- 🌱 I’m currently learning IaC using Terraform
+- 🌱 I’m currently learning IaC using Terraform, Python, Github Actions, bash
 
 <!---
 Panzerjan/Panzerjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
