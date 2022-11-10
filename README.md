@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p>
-  <h1 align="center"><b>Hello there, I'm JanErik 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Jan Erik 👋</b></h1>
 </p>
 
 <p>
