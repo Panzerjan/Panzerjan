@@ -8,6 +8,15 @@ Panzerjan/Panzerjan is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<p>
+  <h1 align="center"><b>Hello there, I'm JanErik 👋</b></h1>
+</p>
+
+<p>
+  <h4 align="center"><b>"Any fool can write code that a computer can understand ..."</b></h4>
+</p>
+
+
 
 ### :zap: Github Stats
 
