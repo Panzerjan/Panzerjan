@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=adgsenpai&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=panzerjan&show_icons=true&theme=radical)
