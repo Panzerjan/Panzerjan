@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning IaC using Terraform, Python, Github Actions, bash and C#
 - 🌱 I work as Data Enigneer
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=panzerjani&show_icons=true&locale=en&layout=compact&langs_count=100" width="37%" alt="Ashlin's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=panzerjan&show_icons=true&locale=en&layout=compact&langs_count=100" width="37%" alt="Ashlin's Top Languages">
 
 <!---
 Panzerjan/Panzerjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
