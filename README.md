@@ -17,14 +17,3 @@ You can click the Preview link to take a look at your changes.
   <h4 align="center"><b>"Any fool can write code that a computer can understand ..."</b></h4>
 </p>
 
-
-
-### :zap: Github Stats
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=panzerjan&show_icons=true&theme=radical)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=panzerjan&show_icons=true&locale=en&layout=compact&langs_count=100" width="37%" alt="Ashlin's Top Languages">
-
